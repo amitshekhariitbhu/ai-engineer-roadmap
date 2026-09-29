@@ -316,6 +316,7 @@ In this step, we will learn how AI works with images and other types of data, an
 In this step, we will learn the hardware that runs AI models, where to deploy a model, how to send each request to the right model, and how to design a complete AI system end to end.
 
 - [How does a GPU work for Deep Learning?](https://outcomeschool.com/blog/how-does-a-gpu-work-for-deep-learning)
+- [How do CUDA Kernels work?](https://outcomeschool.com/blog/how-do-cuda-kernels-work)
 - [How does a Google TPU work?](https://outcomeschool.com/blog/how-does-a-google-tpu-work)
 - [How does an LPU work?](https://outcomeschool.com/blog/how-does-an-lpu-work)
 - [Cloud vs On-device Model Deployment](https://outcomeschool.com/blog/cloud-vs-on-device-model-deployment)
