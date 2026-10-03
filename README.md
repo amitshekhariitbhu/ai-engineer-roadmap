@@ -151,10 +151,11 @@ In this step, we will learn what Generative AI is and how the Transformer, the a
 
 ### Step 4: How LLMs Generate Text
 
-In this step, we will learn how an LLM picks the next token, how we control its creativity, how the output reaches the user token by token, and where the context window fails.
+In this step, we will learn how an LLM picks the next token, how we control its creativity, how it knows when to stop, how the output reaches the user token by token, and where the context window fails.
 
 - [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output)
 - [How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work)
+- [Stop Tokens in LLMs](https://outcomeschool.com/blog/stop-tokens-in-llms)
 - [How does Token Streaming work?](https://outcomeschool.com/blog/how-does-token-streaming-work)
 - [Why is the context window limited in LLMs?](https://www.youtube.com/watch?v=CGIhxIaOg3M) (Video)
 - [What is the Lost in the Middle Problem in LLMs?](https://outcomeschool.com/blog/lost-in-the-middle-problem-in-llms)
