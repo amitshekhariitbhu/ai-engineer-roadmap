@@ -131,6 +131,7 @@ In this step, we will learn what Generative AI is and how the Transformer, the a
 - [What is Generative AI?](https://outcomeschool.com/blog/what-is-generative-ai)
 - [Inside ChatGPT: What Happens After You Hit Enter](https://outcomeschool.substack.com/p/inside-chatgpt-what-happens-after)
 - [What are Autoregressive Models?](https://outcomeschool.com/blog/autoregressive-models)
+- [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms)
 - [What is Byte Pair Encoding (BPE) in LLMs?](https://outcomeschool.com/blog/bpe-in-llms)
 - [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI) (Video)
 - [What are Embeddings?](https://outcomeschool.com/blog/what-are-embeddings)
