@@ -281,6 +281,7 @@ In this step, we will learn how to make LLMs faster and cheaper to run. We will 
 - [How does Model Quantization work?](https://outcomeschool.com/blog/how-does-model-quantization-work)
 - [How does GGUF work?](https://outcomeschool.com/blog/how-does-gguf-work)
 - [How does llama.cpp run LLMs on everyday hardware?](https://outcomeschool.com/blog/how-does-llama-cpp-run-llms-on-everyday-hardware)
+- [How does Ollama work?](https://outcomeschool.com/blog/how-does-ollama-work)
 - [How does vLLM work?](https://outcomeschool.com/blog/how-does-vllm-work)
 - [How does SGLang work?](https://outcomeschool.com/blog/how-does-sglang-work)
 - [How does TensorRT-LLM work?](https://outcomeschool.com/blog/how-does-tensorrt-llm-work)
