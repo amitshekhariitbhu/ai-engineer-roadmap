@@ -223,6 +223,7 @@ If you want a quick introduction to RAG before starting, watch: [AI Engineering 
 - [How to Chunk Documents for RAG? Chunking Strategies Explained](https://outcomeschool.com/blog/chunking-strategies-for-rag)
 - [How does Contextual Retrieval work?](https://outcomeschool.com/blog/how-does-contextual-retrieval-work)
 - [How does HyDE work in RAG?](https://outcomeschool.com/blog/how-does-hyde-work)
+- [How do Query Rewriting and Multi-Query Retrieval work?](https://outcomeschool.com/blog/how-do-query-rewriting-and-multi-query-retrieval-work)
 - [How does an Embedding Cache work?](https://outcomeschool.com/blog/how-does-an-embedding-cache-work)
 - [How does Semantic Caching work?](https://outcomeschool.com/blog/how-does-semantic-caching-work)
 - [What is Agentic RAG?](https://outcomeschool.com/blog/agentic-rag)
