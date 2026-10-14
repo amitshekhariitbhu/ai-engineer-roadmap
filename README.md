@@ -159,6 +159,7 @@ In this step, we will learn how an LLM picks the next token, how we control its 
 - [How does Token Streaming work?](https://outcomeschool.com/blog/how-does-token-streaming-work)
 - [Why is the context window limited in LLMs?](https://www.youtube.com/watch?v=CGIhxIaOg3M) (Video)
 - [What is the Lost in the Middle Problem in LLMs?](https://outcomeschool.com/blog/lost-in-the-middle-problem-in-llms)
+- [Why Do LLMs Hallucinate? The Token-Level Explanation](https://outcomeschool.com/blog/why-do-llms-hallucinate-the-token-level-explanation)
 
 ### Step 5: Modern LLM Architecture
 
