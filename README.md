@@ -333,6 +333,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [What is LLM Routing? How to Send Each Query to the Right LLM](https://outcomeschool.com/blog/llm-routing)
 - [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent)
 - [What is turn-taking in a voice AI agent?](https://outcomeschool.com/blog/what-is-turn-taking-in-a-voice-ai-agent)
+- [What is barge-in in a voice AI agent?](https://outcomeschool.com/blog/what-is-barge-in-in-a-voice-ai-agent)
 
 Supporting reads for AI System Design:
 
