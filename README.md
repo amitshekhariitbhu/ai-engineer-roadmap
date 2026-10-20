@@ -113,6 +113,7 @@ In this step, we will learn what Machine Learning is, the different ways a machi
 
 In this step, we will learn how a neural network actually learns. We will understand the math behind gradient descent and backpropagation step by step, and the techniques that make training stable.
 
+- [What is a Neural Network and How Does It Work?](https://outcomeschool.com/blog/neural-network)
 - [What is Bias in Artificial Neural Network?](https://outcomeschool.com/blog/bias-in-artificial-neural-network)
 - [How Does Gradient Descent Work?](https://outcomeschool.com/blog/math-behind-gradient-descent)
 - [How Does Backpropagation Work? The Math Explained Step by Step](https://outcomeschool.com/blog/math-behind-backpropagation)
