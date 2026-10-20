@@ -115,6 +115,7 @@ In this step, we will learn how a neural network actually learns. We will unders
 
 - [What is a Neural Network and How Does It Work?](https://outcomeschool.com/blog/neural-network)
 - [What is Bias in Artificial Neural Network?](https://outcomeschool.com/blog/bias-in-artificial-neural-network)
+- [How Does Matrix Multiplication Work in Neural Networks?](https://outcomeschool.com/blog/matrix-multiplication-in-neural-networks)
 - [How Does Gradient Descent Work?](https://outcomeschool.com/blog/math-behind-gradient-descent)
 - [How Does Backpropagation Work? The Math Explained Step by Step](https://outcomeschool.com/blog/math-behind-backpropagation)
 - [What is Cross-Entropy Loss?](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
