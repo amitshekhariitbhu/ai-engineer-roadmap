@@ -192,6 +192,7 @@ In this step, we will learn what Generative AI is and how the Transformer, the a
 - [Positional Embeddings in LLMs](https://outcomeschool.substack.com/p/positional-embeddings-in-llms)
 - [What is RoPE (Rotary Position Embedding)? The Math Behind It](https://outcomeschool.com/blog/math-behind-rope-rotary-position-embedding)
 - [What is the Feed-Forward Network in LLMs?](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
+- [How does SwiGLU work?](https://outcomeschool.com/blog/swiglu)
 
 ### Step 4: How LLMs Generate Text
 
