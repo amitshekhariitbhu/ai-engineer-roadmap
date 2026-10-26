@@ -455,6 +455,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [How does SSML control how a voice agent speaks?](https://outcomeschool.com/blog/speech-synthesis-markup-language-ssml)
 - [How do pronunciation dictionaries fix how TTS says names and brands?](https://outcomeschool.com/blog/pronunciation-dictionaries-for-tts)
 - [How does keyword boosting help ASR recognize domain words?](https://outcomeschool.com/blog/keyword-boosting-in-asr)
+- [How does a voice agent handle accents and noisy environments?](https://outcomeschool.com/blog/accents-and-noise-in-voice-agents)
 
 Supporting reads for AI System Design:
 
