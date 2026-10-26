@@ -342,6 +342,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [How does a Google TPU work?](https://outcomeschool.com/blog/how-does-a-google-tpu-work)
 - [How does an LPU work?](https://outcomeschool.com/blog/how-does-an-lpu-work)
 - [Cloud vs On-device Model Deployment](https://outcomeschool.com/blog/cloud-vs-on-device-model-deployment)
+- [How does Model Serving work?](https://outcomeschool.com/blog/model-serving)
 - [Android TensorFlow Lite Machine Learning Example](https://outcomeschool.com/blog/android-tensorflow-lite-machine-learning-example)
 - [What is LLM Routing? How to Send Each Query to the Right LLM](https://outcomeschool.com/blog/llm-routing)
 - [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent)
