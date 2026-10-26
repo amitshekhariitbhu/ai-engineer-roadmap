@@ -177,6 +177,7 @@ In this step, we will learn what Generative AI is and how the Transformer, the a
 - [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI) (Video)
 - [What are Embeddings?](https://outcomeschool.com/blog/what-are-embeddings)
 - [Embeddings in Machine Learning](https://www.youtube.com/watch?v=LedXW6xl21s) (Video)
+- [How does Word2Vec work?](https://outcomeschool.com/blog/word2vec)
 - [How do RNNs and Transformers differ?](https://outcomeschool.com/blog/how-do-rnns-and-transformers-differ)
 - [How Does the Transformer Architecture Work?](https://outcomeschool.com/blog/decoding-transformer-architecture)
 - [Encoder vs Decoder in Transformers](https://outcomeschool.com/blog/encoder-vs-decoder-in-transformers)
