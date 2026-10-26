@@ -411,6 +411,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [How do WebRTC and WebSocket differ for voice AI agents?](https://outcomeschool.com/blog/webrtc-vs-websocket-for-voice-ai)
 - [How does the Opus codec compress voice for real-time calls?](https://outcomeschool.com/blog/opus-codec)
 - [How does a jitter buffer keep voice audio smooth over a bad network?](https://outcomeschool.com/blog/jitter-buffer)
+- [How does packet loss concealment hide missing audio?](https://outcomeschool.com/blog/packet-loss-concealment)
 
 Supporting reads for AI System Design:
 
