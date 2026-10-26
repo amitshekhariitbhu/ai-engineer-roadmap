@@ -465,6 +465,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [How does a voice agent detect and switch the user's language mid-call?](https://outcomeschool.com/blog/language-switching-in-voice-agents)
 - [How does a voice agent match its tone and emotion to the user?](https://outcomeschool.com/blog/emotion-matching-in-voice-agents)
 - [How do you evaluate a voice AI agent?](https://outcomeschool.com/blog/voice-agent-evaluation)
+- [How do simulated callers test a voice agent automatically?](https://outcomeschool.com/blog/simulated-caller-testing)
 
 Supporting reads for AI System Design:
 
