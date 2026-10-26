@@ -433,6 +433,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [How does an outbound calling voice agent work?](https://outcomeschool.com/blog/outbound-calling-voice-agent)
 - [How does a voice agent transfer a call to a human with context?](https://outcomeschool.com/blog/call-transfer-with-context)
 - [How do you write a system prompt for a voice agent, not a chat bot?](https://outcomeschool.com/blog/voice-agent-system-prompt)
+- [How does function calling work in a voice AI agent?](https://outcomeschool.com/blog/function-calling-in-voice-agents)
 
 Supporting reads for AI System Design:
 
