@@ -201,6 +201,7 @@ In this step, we will learn how an LLM picks the next token, how we control its 
 - [How do Greedy Decoding and Beam Search differ?](https://outcomeschool.com/blog/greedy-decoding-vs-beam-search)
 - [What are Log Probabilities (Logprobs) in LLMs?](https://outcomeschool.com/blog/logprobs-in-llms)
 - [Stop Tokens in LLMs](https://outcomeschool.com/blog/stop-tokens-in-llms)
+- [How does Constrained Decoding work?](https://outcomeschool.com/blog/constrained-decoding)
 - [How does Token Streaming work?](https://outcomeschool.com/blog/how-does-token-streaming-work)
 - [How does the Context Window work?](https://outcomeschool.com/blog/context-window)
 - [Why is the context window limited in LLMs?](https://www.youtube.com/watch?v=CGIhxIaOg3M) (Video)
