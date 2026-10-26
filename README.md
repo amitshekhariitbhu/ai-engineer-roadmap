@@ -135,6 +135,7 @@ In this step, we will learn how a neural network actually learns. We will unders
 In this step, we will learn what Generative AI is and how the Transformer, the architecture behind every modern LLM, works from the inside. We will go from tokens to embeddings to attention, one piece at a time.
 
 - [What is Generative AI?](https://outcomeschool.com/blog/what-is-generative-ai)
+- [How does an LLM work?](https://outcomeschool.com/blog/large-language-model-llm)
 - [Inside ChatGPT: What Happens After You Hit Enter](https://outcomeschool.substack.com/p/inside-chatgpt-what-happens-after)
 - [What are Autoregressive Models?](https://outcomeschool.com/blog/autoregressive-models)
 - [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms)
