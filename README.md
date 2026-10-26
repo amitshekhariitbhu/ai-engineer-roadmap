@@ -220,6 +220,7 @@ In this step, we will learn how a pre-trained model is adapted to our own task, 
 
 - [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
 - [How does Fine-Tuning work?](https://outcomeschool.com/blog/how-does-fine-tuning-work)
+- [How does Instruction Tuning work?](https://outcomeschool.com/blog/instruction-tuning)
 - [What is LoRA (Low-Rank Adaptation)?](https://outcomeschool.com/blog/lora-low-rank-adaptation-of-llms)
 - [How does Prefix Tuning work?](https://outcomeschool.com/blog/how-does-prefix-tuning-work)
 - [How does Knowledge Distillation work?](https://outcomeschool.com/blog/how-does-knowledge-distillation-work)
