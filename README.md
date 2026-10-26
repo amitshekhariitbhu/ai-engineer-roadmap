@@ -326,6 +326,7 @@ In this step, we will learn how to keep an LLM application safe, how attackers t
 
 - [How do LLM Guardrails work?](https://outcomeschool.com/blog/how-do-llm-guardrails-work)
 - [What is Prompt Injection in LLMs and How Do We Defend Against It?](https://outcomeschool.com/blog/prompt-injection-in-llms)
+- [What is jailbreaking in LLMs?](https://outcomeschool.com/blog/jailbreaking-in-llms)
 - [How does LLM Watermarking work?](https://outcomeschool.com/blog/how-does-llm-watermarking-work)
 
 ### Step 15: Multimodal AI and Generative Models
