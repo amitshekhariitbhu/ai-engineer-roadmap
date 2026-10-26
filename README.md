@@ -108,6 +108,7 @@ In this step, we will learn what Machine Learning is, the different ways a machi
 - [What are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions)
 - [What is Regularization in Machine Learning? L1 vs L2 Explained](https://outcomeschool.com/blog/regularization-in-machine-learning)
 - [Why do we split data into train, validation, and test sets?](https://outcomeschool.com/blog/train-validation-test-split)
+- [How does Data Augmentation work?](https://outcomeschool.com/blog/data-augmentation)
 - [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
 - [What is Contrastive Learning?](https://outcomeschool.com/blog/contrastive-learning)
 
