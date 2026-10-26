@@ -228,6 +228,7 @@ In this step, we will learn how a pre-trained model is adapted to our own task, 
 - [What is Proximal Policy Optimization (PPO)?](https://outcomeschool.com/blog/proximal-policy-optimization-ppo)
 - [What is Direct Preference Optimization (DPO)?](https://outcomeschool.com/blog/direct-preference-optimization-dpo)
 - [What is Group Relative Policy Optimization (GRPO)?](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
+- [What is Reinforcement Learning with Verifiable Rewards (RLVR)?](https://outcomeschool.com/blog/reinforcement-learning-with-verifiable-rewards-rlvr)
 
 ### Step 8: Prompt Engineering and Context Engineering
 
