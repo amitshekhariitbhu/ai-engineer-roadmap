@@ -430,6 +430,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [How does voicemail and answering machine detection work?](https://outcomeschool.com/blog/answering-machine-detection)
 - [How does an outbound calling voice agent work?](https://outcomeschool.com/blog/outbound-calling-voice-agent)
 - [How does a voice agent transfer a call to a human with context?](https://outcomeschool.com/blog/call-transfer-with-context)
+- [How do you write a system prompt for a voice agent, not a chat bot?](https://outcomeschool.com/blog/voice-agent-system-prompt)
 
 Supporting reads for AI System Design:
 
