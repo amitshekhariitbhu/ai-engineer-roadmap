@@ -138,6 +138,7 @@ In this step, we will learn how a neural network actually learns. We will unders
 - [What are Optimizers in Deep Learning? SGD, Momentum, RMSProp, and Adam Explained](https://outcomeschool.com/blog/optimizers-in-deep-learning)
 - [Why do vanishing and exploding gradients happen?](https://outcomeschool.com/blog/vanishing-and-exploding-gradients)
 - [Why Do We Initialize Weights Randomly in Neural Networks?](https://outcomeschool.com/blog/random-weight-initialization)
+- [What is Entropy in Information Theory?](https://outcomeschool.com/blog/entropy-in-information-theory)
 - [What is Cross-Entropy Loss?](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
 - [What is KL Divergence? The Math Explained Step by Step](https://outcomeschool.com/blog/kl-divergence)
 - [What is Dropout in Neural Networks?](https://outcomeschool.com/blog/dropout-in-neural-networks)
