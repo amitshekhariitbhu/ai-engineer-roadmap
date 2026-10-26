@@ -106,6 +106,7 @@ In this step, we will learn what Machine Learning is, the different ways a machi
 - [What is One-hot Encoding in Machine Learning?](https://outcomeschool.com/blog/one-hot-encoding)
 - [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall)
 - [How does a confusion matrix work?](https://outcomeschool.com/blog/confusion-matrix)
+- [How does the ROC curve and AUC work?](https://outcomeschool.com/blog/roc-curve-and-auc)
 - [What is Bayes' Theorem?](https://outcomeschool.com/blog/bayes-theorem)
 - [How does Naive Bayes work?](https://outcomeschool.com/blog/naive-bayes)
 - [What are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions)
