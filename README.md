@@ -158,6 +158,7 @@ In this step, we will learn how a neural network actually learns. We will unders
 - [How does Semantic Segmentation work?](https://outcomeschool.com/blog/semantic-segmentation)
 - [What is a Recurrent Neural Network (RNN)?](https://outcomeschool.com/blog/recurrent-neural-network)
 - [How do LSTM and GRU work?](https://outcomeschool.com/blog/lstm-and-gru)
+- [How does OCR with Deep Learning work?](https://outcomeschool.com/blog/optical-character-recognition-ocr)
 - [How does PyTorch work?](https://outcomeschool.com/blog/how-does-pytorch-work)
 - [How does TensorFlow work?](https://outcomeschool.com/blog/how-does-the-machine-learning-library-tensorflow-work)
 
