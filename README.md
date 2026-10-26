@@ -252,6 +252,7 @@ In this step, we will learn how a pre-trained model is adapted to our own task, 
 In this step, we will learn how to talk to an LLM so that it gives better answers, and how to manage everything that goes into its context window.
 
 - [How does Prompt Engineering work?](https://outcomeschool.com/blog/prompt-engineering)
+- [How does the System Prompt work?](https://outcomeschool.com/blog/system-prompt)
 - [How does In-Context Learning work?](https://outcomeschool.com/blog/in-context-learning)
 - [How does Chain-of-Thought (CoT) Prompting work?](https://outcomeschool.com/blog/how-does-chain-of-thought-prompting-work)
 - [How does Tree of Thoughts work?](https://outcomeschool.com/blog/how-does-tree-of-thoughts-work)
