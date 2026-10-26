@@ -122,6 +122,7 @@ In this step, we will learn what Machine Learning is, the different ways a machi
 - [How does Self-Supervised Learning work?](https://outcomeschool.com/blog/self-supervised-learning)
 - [What is Contrastive Learning?](https://outcomeschool.com/blog/contrastive-learning)
 - [How does a Recommendation System work?](https://outcomeschool.com/blog/recommendation-system)
+- [What is Explainable AI?](https://outcomeschool.com/blog/explainable-ai-xai)
 
 ### Step 2: Deep Learning and Neural Networks
 
