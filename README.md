@@ -408,6 +408,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [Why do sample rates like 8 kHz, 16 kHz, and 24 kHz matter for voice agents?](https://outcomeschool.com/blog/sample-rates-for-voice-agents)
 - [How do WebRTC and WebSocket differ for voice AI agents?](https://outcomeschool.com/blog/webrtc-vs-websocket-for-voice-ai)
 - [How does the Opus codec compress voice for real-time calls?](https://outcomeschool.com/blog/opus-codec)
+- [How does a jitter buffer keep voice audio smooth over a bad network?](https://outcomeschool.com/blog/jitter-buffer)
 
 Supporting reads for AI System Design:
 
