@@ -225,6 +225,7 @@ In this step, we will learn that not every language model is a large, text-gener
 In this step, we will learn how a pre-trained model is adapted to our own task, how it is made smaller, and how it is taught to follow instructions and human preferences.
 
 - [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
+- [What are the Chinchilla scaling laws?](https://outcomeschool.com/blog/chinchilla-scaling-laws)
 - [How does Fine-Tuning work?](https://outcomeschool.com/blog/how-does-fine-tuning-work)
 - [How does Instruction Tuning work?](https://outcomeschool.com/blog/instruction-tuning)
 - [What is LoRA (Low-Rank Adaptation)?](https://outcomeschool.com/blog/lora-low-rank-adaptation-of-llms)
