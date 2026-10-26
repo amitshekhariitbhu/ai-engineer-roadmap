@@ -105,6 +105,7 @@ In this step, we will learn what Machine Learning is, the different ways a machi
 - [What is Feature Engineering in Machine Learning?](https://outcomeschool.com/blog/feature-engineering)
 - [What is One-hot Encoding in Machine Learning?](https://outcomeschool.com/blog/one-hot-encoding)
 - [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall)
+- [How does a confusion matrix work?](https://outcomeschool.com/blog/confusion-matrix)
 - [What is Bayes' Theorem?](https://outcomeschool.com/blog/bayes-theorem)
 - [What are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions)
 - [What is Regularization in Machine Learning? L1 vs L2 Explained](https://outcomeschool.com/blog/regularization-in-machine-learning)
