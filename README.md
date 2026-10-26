@@ -443,6 +443,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [How does a voice agent handle structured inputs like dates, numbers, and addresses?](https://outcomeschool.com/blog/structured-inputs-in-voice-agents)
 - [How does a voice agent confirm and correct misheard information?](https://outcomeschool.com/blog/confirm-and-correct-in-voice-agents)
 - [How does a voice agent manage conversation state across a long call?](https://outcomeschool.com/blog/conversation-state-in-voice-agents)
+- [How do multi-agent handoffs work in a voice AI system?](https://outcomeschool.com/blog/multi-agent-handoffs-in-voice-ai)
 
 Supporting reads for AI System Design:
 
