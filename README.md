@@ -136,6 +136,7 @@ In this step, we will learn how a neural network actually learns. We will unders
 - [What are Epoch, Batch, Batch Size, and Iteration in Machine Learning?](https://outcomeschool.com/blog/epoch-batch-and-iteration)
 - [How Does Backpropagation Work? The Math Explained Step by Step](https://outcomeschool.com/blog/math-behind-backpropagation)
 - [What are Optimizers in Deep Learning? SGD, Momentum, RMSProp, and Adam Explained](https://outcomeschool.com/blog/optimizers-in-deep-learning)
+- [How do learning rate schedules and warmup work?](https://outcomeschool.com/blog/learning-rate-schedules-and-warmup)
 - [Why do vanishing and exploding gradients happen?](https://outcomeschool.com/blog/vanishing-and-exploding-gradients)
 - [Why Do We Initialize Weights Randomly in Neural Networks?](https://outcomeschool.com/blog/random-weight-initialization)
 - [What is Entropy in Information Theory?](https://outcomeschool.com/blog/entropy-in-information-theory)
