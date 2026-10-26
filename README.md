@@ -114,6 +114,7 @@ In this step, we will learn what Machine Learning is, the different ways a machi
 - [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
 - [What is a Markov Decision Process (MDP)?](https://outcomeschool.com/blog/markov-decision-process-mdp)
 - [What is Exploration vs Exploitation in Reinforcement Learning?](https://outcomeschool.com/blog/exploration-vs-exploitation)
+- [What is a Value Function? Q-Learning Explained Step by Step](https://outcomeschool.com/blog/value-function-and-q-learning)
 - [What is Contrastive Learning?](https://outcomeschool.com/blog/contrastive-learning)
 
 ### Step 2: Deep Learning and Neural Networks
