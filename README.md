@@ -109,6 +109,7 @@ In this step, we will learn what Machine Learning is, the different ways a machi
 - [What are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions)
 - [What is Regularization in Machine Learning? L1 vs L2 Explained](https://outcomeschool.com/blog/regularization-in-machine-learning)
 - [Why do we split data into train, validation, and test sets?](https://outcomeschool.com/blog/train-validation-test-split)
+- [How does Cross-Validation work?](https://outcomeschool.com/blog/cross-validation)
 - [How does the Bias-Variance Tradeoff work?](https://outcomeschool.com/blog/bias-variance-tradeoff)
 - [How do Decision Trees and Random Forests work?](https://outcomeschool.com/blog/decision-trees-and-random-forests)
 - [How does K-Means Clustering work?](https://outcomeschool.com/blog/k-means-clustering)
