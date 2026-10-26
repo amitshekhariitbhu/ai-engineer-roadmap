@@ -397,6 +397,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [How does an LPU work?](https://outcomeschool.com/blog/how-does-an-lpu-work)
 - [How does distributed training work?](https://outcomeschool.com/blog/distributed-training)
 - [Cloud vs On-device Model Deployment](https://outcomeschool.com/blog/cloud-vs-on-device-model-deployment)
+- [How does Federated Learning train without raw data?](https://outcomeschool.com/blog/federated-learning)
 - [How does Model Serving work?](https://outcomeschool.com/blog/model-serving)
 - [How does a Model Registry work?](https://outcomeschool.com/blog/model-registry)
 - [How does a feature store work?](https://outcomeschool.com/blog/feature-store)
