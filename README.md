@@ -138,6 +138,7 @@ In this step, we will learn how a neural network actually learns. We will unders
 - [What is Dropout in Neural Networks?](https://outcomeschool.com/blog/dropout-in-neural-networks)
 - [Batch Normalization vs Layer Normalization](https://outcomeschool.com/blog/batch-normalization-vs-layer-normalization)
 - [What is RMSNorm? Root Mean Square Layer Normalization Explained](https://outcomeschool.com/blog/rmsnorm-root-mean-square-layer-normalization)
+- [Convolutional Neural Networks](https://outcomeschool.com/blog/convolutional-neural-network-cnn)
 - [What is a Recurrent Neural Network (RNN)?](https://outcomeschool.com/blog/recurrent-neural-network)
 - [How does PyTorch work?](https://outcomeschool.com/blog/how-does-pytorch-work)
 - [How does TensorFlow work?](https://outcomeschool.com/blog/how-does-the-machine-learning-library-tensorflow-work)
