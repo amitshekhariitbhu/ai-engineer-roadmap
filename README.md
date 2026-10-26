@@ -344,6 +344,7 @@ In this step, we will learn how AI works with images and other types of data, an
 - [How do Image Embeddings work?](https://outcomeschool.com/blog/how-do-image-embeddings-work)
 - [How does a Vision-Language Model (VLM) work?](https://outcomeschool.com/blog/vision-language-model-vlm)
 - [What are Diffusion Models and How Do They Generate Images?](https://outcomeschool.com/blog/diffusion-models)
+- [How does flow matching train a generative model?](https://outcomeschool.com/blog/flow-matching)
 - [What are Generative Adversarial Networks (GANs)?](https://outcomeschool.com/blog/generative-adversarial-networks)
 - [What are Variational Autoencoders (VAEs)?](https://outcomeschool.com/blog/variational-autoencoders)
 
