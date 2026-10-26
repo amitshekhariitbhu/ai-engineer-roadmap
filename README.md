@@ -131,6 +131,7 @@ In this step, we will learn how a neural network actually learns. We will unders
 - [Why do vanishing and exploding gradients happen?](https://outcomeschool.com/blog/vanishing-and-exploding-gradients)
 - [Why Do We Initialize Weights Randomly in Neural Networks?](https://outcomeschool.com/blog/random-weight-initialization)
 - [What is Cross-Entropy Loss?](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
+- [What is KL Divergence? The Math Explained Step by Step](https://outcomeschool.com/blog/kl-divergence)
 - [What is Dropout in Neural Networks?](https://outcomeschool.com/blog/dropout-in-neural-networks)
 - [Batch Normalization vs Layer Normalization](https://outcomeschool.com/blog/batch-normalization-vs-layer-normalization)
 - [What is RMSNorm? Root Mean Square Layer Normalization Explained](https://outcomeschool.com/blog/rmsnorm-root-mean-square-layer-normalization)
