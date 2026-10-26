@@ -285,6 +285,7 @@ In this step, we will learn how an LLM goes from answering questions to actually
 - [What is Sakana Fugu? The Technical Report Explained](https://outcomeschool.com/blog/decoding-sakana-fugu)
 - [How do Computer-Use Agents work?](https://outcomeschool.com/blog/how-do-computer-use-agents-work)
 - [How do Browser Agents work?](https://outcomeschool.com/blog/how-do-browser-agents-work)
+- [How do Human-in-the-Loop agents work?](https://outcomeschool.com/blog/human-in-the-loop-agents)
 
 ### Step 11: Agentic Engineering and Agent Frameworks
 
