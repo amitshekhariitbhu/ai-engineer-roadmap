@@ -118,6 +118,7 @@ In this step, we will learn how a neural network actually learns. We will unders
 - [What is Bias in Artificial Neural Network?](https://outcomeschool.com/blog/bias-in-artificial-neural-network)
 - [What is a Multilayer Perceptron (MLP) and How Does It Work?](https://outcomeschool.com/blog/multilayer-perceptron-mlp)
 - [What are Activation Functions in Neural Networks? Sigmoid, Tanh, ReLU, and Softmax Explained](https://outcomeschool.com/blog/activation-functions)
+- [What is the Softmax Function and How Does It Work?](https://outcomeschool.com/blog/softmax-function)
 - [How Does Matrix Multiplication Work in Neural Networks?](https://outcomeschool.com/blog/matrix-multiplication-in-neural-networks)
 - [How Does Gradient Descent Work?](https://outcomeschool.com/blog/math-behind-gradient-descent)
 - [How Does Backpropagation Work? The Math Explained Step by Step](https://outcomeschool.com/blog/math-behind-backpropagation)
