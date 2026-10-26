@@ -416,6 +416,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [How does a jitter buffer keep voice audio smooth over a bad network?](https://outcomeschool.com/blog/jitter-buffer)
 - [How does packet loss concealment hide missing audio?](https://outcomeschool.com/blog/packet-loss-concealment)
 - [How does a voice AI agent answer a phone call?](https://outcomeschool.com/blog/phone-calls-in-voice-agents)
+- [How do SIP and RTP carry a phone call to a voice agent?](https://outcomeschool.com/blog/sip-and-rtp)
 
 Supporting reads for AI System Design:
 
