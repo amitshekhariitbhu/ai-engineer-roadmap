@@ -122,6 +122,7 @@ In this step, we will learn what Machine Learning is, the different ways a machi
 - [What is Policy Gradient? The REINFORCE Algorithm Explained](https://outcomeschool.com/blog/policy-gradient-reinforce)
 - [What is Actor-Critic in Reinforcement Learning? The Advantage Function Explained](https://outcomeschool.com/blog/actor-critic)
 - [How does Self-Supervised Learning work?](https://outcomeschool.com/blog/self-supervised-learning)
+- [How does Semi-Supervised Learning work?](https://outcomeschool.com/blog/semi-supervised-learning)
 - [What is Contrastive Learning?](https://outcomeschool.com/blog/contrastive-learning)
 - [How does a Recommendation System work?](https://outcomeschool.com/blog/recommendation-system)
 - [What is Explainable AI?](https://outcomeschool.com/blog/explainable-ai-xai)
