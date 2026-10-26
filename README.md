@@ -113,6 +113,7 @@ In this step, we will learn what Machine Learning is, the different ways a machi
 - [How does Cross-Validation work?](https://outcomeschool.com/blog/cross-validation)
 - [How does the Bias-Variance Tradeoff work?](https://outcomeschool.com/blog/bias-variance-tradeoff)
 - [How do Decision Trees and Random Forests work?](https://outcomeschool.com/blog/decision-trees-and-random-forests)
+- [How does Gradient Boosting work?](https://outcomeschool.com/blog/gradient-boosting)
 - [How does K-Means Clustering work?](https://outcomeschool.com/blog/k-means-clustering)
 - [How does Data Augmentation work?](https://outcomeschool.com/blog/data-augmentation)
 - [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
