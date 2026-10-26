@@ -394,6 +394,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [Cloud vs On-device Model Deployment](https://outcomeschool.com/blog/cloud-vs-on-device-model-deployment)
 - [How does Model Serving work?](https://outcomeschool.com/blog/model-serving)
 - [How does a Model Registry work?](https://outcomeschool.com/blog/model-registry)
+- [How does a feature store work?](https://outcomeschool.com/blog/feature-store)
 - [Android TensorFlow Lite Machine Learning Example](https://outcomeschool.com/blog/android-tensorflow-lite-machine-learning-example)
 - [What is LLM Routing? How to Send Each Query to the Right LLM](https://outcomeschool.com/blog/llm-routing)
 - [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent)
