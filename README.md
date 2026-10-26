@@ -113,6 +113,7 @@ In this step, we will learn what Machine Learning is, the different ways a machi
 - [How does Data Augmentation work?](https://outcomeschool.com/blog/data-augmentation)
 - [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
 - [What is a Markov Decision Process (MDP)?](https://outcomeschool.com/blog/markov-decision-process-mdp)
+- [What is Exploration vs Exploitation in Reinforcement Learning?](https://outcomeschool.com/blog/exploration-vs-exploitation)
 - [What is Contrastive Learning?](https://outcomeschool.com/blog/contrastive-learning)
 
 ### Step 2: Deep Learning and Neural Networks
