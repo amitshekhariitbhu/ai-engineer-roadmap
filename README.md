@@ -224,6 +224,7 @@ In this step, we will learn how a pre-trained model is adapted to our own task, 
 - [What is RLHF? Reinforcement Learning from Human Feedback Explained](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
 - [What is a Reward Model and How Is It Trained?](https://outcomeschool.com/blog/reward-model)
 - [What is Reward Hacking in Reinforcement Learning and How Do We Prevent It?](https://outcomeschool.com/blog/reward-hacking)
+- [What is RLAIF? Reinforcement Learning from AI Feedback Explained](https://outcomeschool.com/blog/reinforcement-learning-from-ai-feedback-rlaif)
 - [What is Proximal Policy Optimization (PPO)?](https://outcomeschool.com/blog/proximal-policy-optimization-ppo)
 - [What is Direct Preference Optimization (DPO)?](https://outcomeschool.com/blog/direct-preference-optimization-dpo)
 - [What is Group Relative Policy Optimization (GRPO)?](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
