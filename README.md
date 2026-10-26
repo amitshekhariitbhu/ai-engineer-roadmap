@@ -280,6 +280,7 @@ If you want a quick introduction to RAG before starting, watch: [AI Engineering 
 - [How does Semantic Search work?](https://outcomeschool.com/blog/how-does-semantic-search-work)
 - [How does an Inverted Index work?](https://outcomeschool.com/blog/inverted-index)
 - [How does BM25 work?](https://outcomeschool.com/blog/bm25)
+- [How do sparse and dense embeddings differ?](https://outcomeschool.com/blog/sparse-vs-dense-embeddings)
 - [How does Hybrid Search work?](https://outcomeschool.com/blog/how-does-hybrid-search-work)
 - [How does a Reranker work?](https://outcomeschool.com/blog/how-does-a-reranker-work)
 - [What is ColBERT? Late Interaction Retrieval Explained](https://outcomeschool.com/blog/decoding-colbert)
