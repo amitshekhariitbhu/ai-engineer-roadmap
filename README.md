@@ -413,6 +413,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [How does the Opus codec compress voice for real-time calls?](https://outcomeschool.com/blog/opus-codec)
 - [How does a jitter buffer keep voice audio smooth over a bad network?](https://outcomeschool.com/blog/jitter-buffer)
 - [How does packet loss concealment hide missing audio?](https://outcomeschool.com/blog/packet-loss-concealment)
+- [How does a voice AI agent answer a phone call?](https://outcomeschool.com/blog/phone-calls-in-voice-agents)
 
 Supporting reads for AI System Design:
 
