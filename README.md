@@ -325,6 +325,7 @@ In this step, we will learn how AI works with images and other types of data, an
 - [What is Multimodal AI?](https://outcomeschool.com/blog/multimodal-ai)
 - [What is a Vision Transformer (ViT)?](https://outcomeschool.com/blog/decoding-vision-transformer-vit)
 - [How do Image Embeddings work?](https://outcomeschool.com/blog/how-do-image-embeddings-work)
+- [How does a Vision-Language Model (VLM) work?](https://outcomeschool.com/blog/vision-language-model-vlm)
 - [What are Diffusion Models and How Do They Generate Images?](https://outcomeschool.com/blog/diffusion-models)
 - [What are Generative Adversarial Networks (GANs)?](https://outcomeschool.com/blog/generative-adversarial-networks)
 - [What are Variational Autoencoders (VAEs)?](https://outcomeschool.com/blog/variational-autoencoders)
