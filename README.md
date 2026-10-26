@@ -357,6 +357,7 @@ In this step, we will learn how to make LLMs faster and cheaper to run. We will 
 In this step, we will learn how to measure whether our LLM and our agent are actually doing a good job, and how to see what they are doing in production.
 
 - [What is LLM Evaluation? Metrics, Benchmarks, and Methods Explained](https://outcomeschool.com/blog/llm-evaluation)
+- [What is perplexity in a language model?](https://outcomeschool.com/blog/perplexity-in-language-models)
 - [What is LLM as a Judge?](https://outcomeschool.com/blog/llm-as-a-judge)
 - [How to Evaluate AI Agents? Metrics, Methods, and Best Practices](https://outcomeschool.com/blog/ai-agent-evaluation)
 - [What is AI Agent Observability? Traces, Spans, and Metrics Explained](https://outcomeschool.com/blog/ai-agent-observability)
