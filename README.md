@@ -383,6 +383,7 @@ In this step, we will learn the hardware that runs AI models, where to deploy a 
 - [Why does TTS audio buffering make interruptions slow?](https://outcomeschool.com/blog/tts-audio-buffering)
 - [How does a voice agent truncate its memory to only what the user actually heard?](https://outcomeschool.com/blog/truncating-context-on-interruption)
 - [How does a voice agent recover from a false interruption?](https://outcomeschool.com/blog/false-interruption-recovery)
+- [How does a voice agent handle the user and agent talking at the same time?](https://outcomeschool.com/blog/overlapping-speech-in-voice-agents)
 - [How do you build a latency budget for a voice AI agent?](https://outcomeschool.com/blog/voice-agent-latency-budget)
 - [How does the voice-to-voice latency of a voice agent get measured?](https://outcomeschool.com/blog/voice-to-voice-latency)
 - [Why does the time-to-first-audio matter more than total response time?](https://outcomeschool.com/blog/time-to-first-audio)
