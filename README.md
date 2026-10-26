@@ -306,6 +306,7 @@ In this step, we will learn how to make LLMs faster and cheaper to run. We will 
 - [What is Prefill-Decode Disaggregation in LLM Inference?](https://outcomeschool.com/blog/prefill-decode-disaggregation)
 - [What is KV Cache in LLMs?](https://outcomeschool.com/blog/kv-cache-in-llms)
 - [What is KV Cache Compression?](https://outcomeschool.com/blog/kv-cache-compression)
+- [How does an LLM use GPU memory?](https://outcomeschool.com/blog/llm-gpu-memory)
 - [What is Paged Attention in LLMs?](https://outcomeschool.com/blog/paged-attention-in-llms)
 - [What is Continuous Batching in LLMs?](https://outcomeschool.com/blog/continuous-batching-in-llms)
 - [What is Speculative Decoding?](https://outcomeschool.com/blog/speculative-decoding)
